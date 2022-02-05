@@ -1,0 +1,54 @@
+body {
+  background-color: #3d3d3d;
+}
+
+.tabuleiro {
+  padding: 8px;
+  grid-gap: 3px;
+  display: grid;
+  width: 4rem;
+  position: relative;
+
+  grid-template-areas:
+    'num01 num02 num03 num04 num05 num06 num07 num08'
+    'num11 num12 num13 num14 num15 num16 num17 num18'
+    'num21 num22 num23 num24 num25 num26 num27 num28'
+    'num31 num32 num33 num34 num35 num36 num37 num38'
+    'num41 num42 num43 num44 num45 num46 num47 num48'
+    'num51 num52 num53 num54 num55 num56 num57 num58'
+    'num61 num62 num63 num64 num65 num66 num67 num68'
+    'num71 num72 num73 num74 num75 num76 num77 num78';
+}
+
+.white {
+  background-color: rgb(207, 211, 161);
+  width: 3rem;
+  height: 3rem;
+}
+
+.black {
+  background-color: black;
+  width: 3rem;
+  height: 3rem;
+}
+
+span {
+  font-size: 2.4rem;
+  color: azure;
+  position: absolute;
+  cursor: pointer;
+}
+
+.selectdDiv {
+  background-color: blue;
+  width: 3rem;
+  height: 3rem;
+}
+
+p {
+  margin-left: 1rem;
+  font-size: 20px;
+  color: red;
+  position: absolute;
+  cursor: pointer;
+}

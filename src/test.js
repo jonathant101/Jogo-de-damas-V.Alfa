@@ -1,0 +1,12 @@
+    1:{dama:false, selectd:false, onTable: true } ,   
+    2:{dama:false, selectd:false, onTable: true } ,
+    3:{dama:false, selectd:false, onTable: true } ,
+    4:{dama:false, selectd:false, onTable: true } ,
+    5:{dama:false, selectd:false, onTable: true } ,
+    6:{dama:false, selectd:false, onTable: true } ,
+    7:{dama:false, selectd:false, onTable: true } ,
+    8:{dama:false, selectd:false, onTable: true } ,
+    9:{dama:false, selectd:false, onTable: true } ,
+    10:{dama:false, selectd:false, onTable: true } ,
+    11:{dama:false, selectd:false, onTable: true } ,
+    12:{dama:false, selectd:false, onTable: true } 
